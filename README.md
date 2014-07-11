@@ -1,2 +1,3 @@
-OdinProject
+My_Odin_Projects
+
 ===========
